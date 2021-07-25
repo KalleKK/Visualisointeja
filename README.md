@@ -8,3 +8,7 @@ https://api.mapbox.com/styles/v1/naauk/cknd7l50g23z717pep36gw1of.html?fresh=true
 
 Väestö iän ja sukupuolen mukaan Kanta - ja Päijät-Hämeessä 
 https://app.powerbi.com/view?r=eyJrIjoiNDAwNWRlNWMtZWRkYy00YWIwLWI2NjAtMGE3ZThiMzYxZTI3IiwidCI6ImM4NTBmZTljLWI0NmMtNGIyZC1iODYzLTAxZmEyYTg5ODA2OCIsImMiOjh9&pageName=ReportSectionf44560e4846f826d2114
+
+Toimipaikkojen taloudellisten tunnuslukujen puukaavio visualisointi 
+
+https://app.powerbi.com/view?r=eyJrIjoiNjFmMWY3MGYtNTU0NS00NDkwLThjZWYtZjYzNWMxOTZmMmI3IiwidCI6ImM4NTBmZTljLWI0NmMtNGIyZC1iODYzLTAxZmEyYTg5ODA2OCIsImMiOjh9&pageName=ReportSection737e1512edb5ad03539a
