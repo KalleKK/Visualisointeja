@@ -1,1 +1,10 @@
 # Visualisointeja
+
+Ostokuitit Lahti 
+https://app.powerbi.com/view?r=eyJrIjoiMWZhMDhiNzAtYmUzYS00ZDczLWI1NDQtODE4ZDc4ZTQ2MDE2IiwidCI6ImM4NTBmZTljLWI0NmMtNGIyZC1iODYzLTAxZmEyYTg5ODA2OCIsImMiOjh9&pageName=ReportSection95e5b626b9ef47b23a6d
+
+Mapbox - Mediaanitulot postinumeroittain Suomessa 
+https://api.mapbox.com/styles/v1/naauk/cknd7l50g23z717pep36gw1of.html?fresh=true&title=view&access_token=pk.eyJ1IjoibmFhdWsiLCJhIjoiY2trejM2MjJoMG1wMDJ3cDAxbDY2bDNoZiJ9.8Jtkat_iQ0uNp1kwxM4rIA#6.34/61.488/24.764
+
+Väestö iän ja sukupuolen mukaan Kanta - ja Päijät-Hämeessä 
+https://app.powerbi.com/view?r=eyJrIjoiNDAwNWRlNWMtZWRkYy00YWIwLWI2NjAtMGE3ZThiMzYxZTI3IiwidCI6ImM4NTBmZTljLWI0NmMtNGIyZC1iODYzLTAxZmEyYTg5ODA2OCIsImMiOjh9&pageName=ReportSectionf44560e4846f826d2114
