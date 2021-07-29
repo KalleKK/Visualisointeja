@@ -8,11 +8,11 @@ Mapbox - Mediaanitulot postinumeroittain Suomessa
 
 https://api.mapbox.com/styles/v1/naauk/cknd7l50g23z717pep36gw1of.html?fresh=true&title=view&access_token=pk.eyJ1IjoibmFhdWsiLCJhIjoiY2trejM2MjJoMG1wMDJ3cDAxbDY2bDNoZiJ9.8Jtkat_iQ0uNp1kwxM4rIA#6.34/61.488/24.764
 
-Väestö 18 - 35 vuotta sukupuolen mukaan Kanta - ja Päijät-Hämeen kunnissa 
+PowerBi - Väestö 18 - 35 vuotta sukupuolen mukaan Kanta - ja Päijät-Hämeen kunnissa 
 
 https://app.powerbi.com/view?r=eyJrIjoiNDAwNWRlNWMtZWRkYy00YWIwLWI2NjAtMGE3ZThiMzYxZTI3IiwidCI6ImM4NTBmZTljLWI0NmMtNGIyZC1iODYzLTAxZmEyYTg5ODA2OCIsImMiOjh9&pageName=ReportSectionf44560e4846f826d2114
 
-Kanta - ja Päijät-Hämeen maakunnissa olevien toimipaikkojen taloudellisia tunnuslukuja kuvaava puukaavio.
+PowerBi - Kanta - ja Päijät-Hämeen maakunnissa olevien toimipaikkojen taloudellisia tunnuslukuja kuvaava puukaavio.
 
 https://app.powerbi.com/view?r=eyJrIjoiNjFmMWY3MGYtNTU0NS00NDkwLThjZWYtZjYzNWMxOTZmMmI3IiwidCI6ImM4NTBmZTljLWI0NmMtNGIyZC1iODYzLTAxZmEyYTg5ODA2OCIsImMiOjh9&pageName=ReportSection737e1512edb5ad03539a
 
