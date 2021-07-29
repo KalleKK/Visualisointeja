@@ -1,6 +1,6 @@
-# Visualisointeja
+# Visualisointeja - PowerBi, MapBox ja Plotly
 
-Ostokuitit Lahti 
+Ostokuitit Lahti PowerBi - Tehty avoimesta datasta. 
 
 https://app.powerbi.com/view?r=eyJrIjoiMWZhMDhiNzAtYmUzYS00ZDczLWI1NDQtODE4ZDc4ZTQ2MDE2IiwidCI6ImM4NTBmZTljLWI0NmMtNGIyZC1iODYzLTAxZmEyYTg5ODA2OCIsImMiOjh9&pageName=ReportSection95e5b626b9ef47b23a6d
 
@@ -15,3 +15,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNDAwNWRlNWMtZWRkYy00YWIwLWI2NjAtMGE3ZThiM
 Kanta - ja Päijät-Hämeen maakunnissa olevien toimipaikkojen taloudellisia tunnuslukuja kuvaava puukaavio.
 
 https://app.powerbi.com/view?r=eyJrIjoiNjFmMWY3MGYtNTU0NS00NDkwLThjZWYtZjYzNWMxOTZmMmI3IiwidCI6ImM4NTBmZTljLWI0NmMtNGIyZC1iODYzLTAxZmEyYTg5ODA2OCIsImMiOjh9&pageName=ReportSection737e1512edb5ad03539a
+
+Prosentuaalinen määrä eläkeläisiä verrattuna kokonaisväestöön vuosittain Päijät - ja Kanta-Hämeen kunnissa
+
+https://chart-studio.plotly.com/~KalleKK/31/#/
