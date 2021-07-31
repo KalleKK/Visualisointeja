@@ -19,3 +19,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNjFmMWY3MGYtNTU0NS00NDkwLThjZWYtZjYzNWMxO
 Prosentuaalinen määrä eläkeläisiä verrattuna kokonaisväestöön vuosittain Päijät - ja Kanta-Hämeen kunnissa
 
 https://chart-studio.plotly.com/~KalleKK/31/#/
+
+Visualisointi Päijät-Hämeen sairaanhoitopiirin koronarokotuksista. Datan lähde THL
+
+https://app.powerbi.com/view?r=eyJrIjoiODA3MzdjOTEtOThjNy00ZGQzLWFiYTUtNTc2ZjJhYjUyMDJiIiwidCI6ImM4NTBmZTljLWI0NmMtNGIyZC1iODYzLTAxZmEyYTg5ODA2OCIsImMiOjh9&pageName=ReportSection
