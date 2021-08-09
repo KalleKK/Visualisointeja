@@ -16,7 +16,7 @@ PowerBi - Kanta - ja Päijät-Hämeen maakunnissa olevien toimipaikkojen taloude
 
 https://app.powerbi.com/view?r=eyJrIjoiMzc4YTRlOGUtOGViYS00Yjc2LWIxMTEtNzIxNWE2NWE2NWUyIiwidCI6ImM4NTBmZTljLWI0NmMtNGIyZC1iODYzLTAxZmEyYTg5ODA2OCIsImMiOjh9&pageName=ReportSection737e1512edb5ad03539a
 
-Prosentuaalinen määrä eläkeläisiä verrattuna kokonaisväestöön vuosittain Päijät - ja Kanta-Hämeen kunnissa
+Prosentuaalinen määrä eläkeläisiä verrattuna kokonaisväestöön vuosittain Päijät - ja Kanta-Hämeen kunnissa, Plotly
 
 https://chart-studio.plotly.com/~KalleKK/31/#/
 
