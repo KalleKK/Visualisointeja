@@ -14,7 +14,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNDAwNWRlNWMtZWRkYy00YWIwLWI2NjAtMGE3ZThiM
 
 PowerBi - Kanta - ja Päijät-Hämeen maakunnissa olevien toimipaikkojen taloudellisia tunnuslukuja kuvaava puukaavio.
 
-https://app.powerbi.com/view?r=eyJrIjoiNjFmMWY3MGYtNTU0NS00NDkwLThjZWYtZjYzNWMxOTZmMmI3IiwidCI6ImM4NTBmZTljLWI0NmMtNGIyZC1iODYzLTAxZmEyYTg5ODA2OCIsImMiOjh9&pageName=ReportSection737e1512edb5ad03539a
+https://app.powerbi.com/view?r=eyJrIjoiMzc4YTRlOGUtOGViYS00Yjc2LWIxMTEtNzIxNWE2NWE2NWUyIiwidCI6ImM4NTBmZTljLWI0NmMtNGIyZC1iODYzLTAxZmEyYTg5ODA2OCIsImMiOjh9&pageName=ReportSection737e1512edb5ad03539a
 
 Prosentuaalinen määrä eläkeläisiä verrattuna kokonaisväestöön vuosittain Päijät - ja Kanta-Hämeen kunnissa
 
