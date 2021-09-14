@@ -20,6 +20,9 @@ Prosentuaalinen määrä eläkeläisiä verrattuna kokonaisväestöön vuosittai
 
 https://chart-studio.plotly.com/~KalleKK/31/#/
 
-Visualisointi Päijät-Hämeen sairaanhoitopiirin koronarokotuksista. Datan lähde THL. PowerBI
-
+Visualisointi Päijät-Hämeen sairaanhoitopiirin koronarokotuksista. Datan lähde: THL
 https://app.powerbi.com/view?r=eyJrIjoiODA3MzdjOTEtOThjNy00ZGQzLWFiYTUtNTc2ZjJhYjUyMDJiIiwidCI6ImM4NTBmZTljLWI0NmMtNGIyZC1iODYzLTAxZmEyYTg5ODA2OCIsImMiOjh9&pageName=ReportSection
+
+Visualisointi kunnan osarahoittamista työttömyyskorvauksista. PowerBi. Datan lähde: https://www.avoindata.fi/data/fi/dataset/kunnan-osarahoittaman-tyomarkkinatuen-saajat-ja-maksetut-etuudet-koko-maa
+
+https://app.powerbi.com/view?r=eyJrIjoiOTg5OTJjYzEtYjQ0YS00YmZjLTgzYjctNGRhYWNmY2EyMDZmIiwidCI6ImM4NTBmZTljLWI0NmMtNGIyZC1iODYzLTAxZmEyYTg5ODA2OCIsImMiOjh9&pageName=ReportSection
